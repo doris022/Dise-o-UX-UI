@@ -4,8 +4,8 @@ Este repositorio documenta mi progreso en el rol de **Diseñador UX/UI**. Aqui e
 ##Contenido en cada carpeta
 - General:
   - Apuntes y Recursos: Conceptos esenciales de UX/UI y fundamentos del diseño centrado en el usuario.
-  - Figma: Archivos, guías y práctica con la herramienta de diseño. 
-- Proyecoss: 
+  - Metodologia de diseño: Archivos, guías y práctica con las diferentes herramienta de diseño. 
+- Proyectos: 
   - Visualización de usuario: Primeros enfoques centrados en la experiencia del usuario.  
   - Wireframes, mockups y prototipos: Desarrollo de ideas desde bocetos hasta pruebas funcionales.  
 
